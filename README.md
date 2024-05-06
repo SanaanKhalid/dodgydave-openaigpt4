@@ -1,4 +1,4 @@
-# coce3417398ec7e799c12bdda
+# Dodgy Dave Stock Predicter
 
 Quick start:
 
